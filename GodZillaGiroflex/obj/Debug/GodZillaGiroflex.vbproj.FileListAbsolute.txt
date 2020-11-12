@@ -1,0 +1,12 @@
+C:\Users\Oswal\OneDrive\Documentos\Visual Studio 2017\Projects\GodZillaGiroflex\GodZillaGiroflex\obj\Debug\GodZillaGiroflex.Resources.resources
+C:\Users\Oswal\OneDrive\Documentos\Visual Studio 2017\Projects\GodZillaGiroflex\GodZillaGiroflex\obj\Debug\GodZillaGiroflex.UserControl1.resources
+C:\Users\Oswal\OneDrive\Documentos\Visual Studio 2017\Projects\GodZillaGiroflex\GodZillaGiroflex\obj\Debug\GodZillaGiroflex.vbproj.GenerateResource.Cache
+C:\Users\Oswal\OneDrive\Documentos\Visual Studio 2017\Projects\GodZillaGiroflex\GodZillaGiroflex\bin\Debug\GodZillaGiroflex.exe.config
+C:\Users\Oswal\OneDrive\Documentos\Visual Studio 2017\Projects\GodZillaGiroflex\GodZillaGiroflex\bin\Debug\GodZillaGiroflex.exe
+C:\Users\Oswal\OneDrive\Documentos\Visual Studio 2017\Projects\GodZillaGiroflex\GodZillaGiroflex\bin\Debug\GodZillaGiroflex.pdb
+C:\Users\Oswal\OneDrive\Documentos\Visual Studio 2017\Projects\GodZillaGiroflex\GodZillaGiroflex\bin\Debug\GodZillaGiroflex.xml
+C:\Users\Oswal\OneDrive\Documentos\Visual Studio 2017\Projects\GodZillaGiroflex\GodZillaGiroflex\obj\Debug\GodZillaGiroflex.exe
+C:\Users\Oswal\OneDrive\Documentos\Visual Studio 2017\Projects\GodZillaGiroflex\GodZillaGiroflex\obj\Debug\GodZillaGiroflex.xml
+C:\Users\Oswal\OneDrive\Documentos\Visual Studio 2017\Projects\GodZillaGiroflex\GodZillaGiroflex\obj\Debug\GodZillaGiroflex.pdb
+C:\Users\Oswal\OneDrive\Documentos\Visual Studio 2017\Projects\GodZillaGiroflex\GodZillaGiroflex\obj\Debug\GodZillaGiroflex.Form1.resources
+C:\Users\Oswal\OneDrive\Documentos\Visual Studio 2017\Projects\GodZillaGiroflex\GodZillaGiroflex\obj\Debug\GodZillaGiroflex.Historico.resources
